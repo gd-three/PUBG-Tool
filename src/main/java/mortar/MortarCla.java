@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
-
+// 目击边长大小方式 测算迫击炮距离
 public class MortarCla {
     public static void main(String[] args) {
         for (; ; ) {

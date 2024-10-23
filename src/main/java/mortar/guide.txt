@@ -1,0 +1,5 @@
+1 下载jdk-17.0.9_windows-x64_bin.zip (链接：https://pan.baidu.com/s/1NEgIjq7Xvq2Oc9BTAYotlw 提取码：dong)
+  解压，记住解压路径，步骤2会使用的
+2 配置环境变量，可以看网上的，如：https://www.runoob.com/w3cnote/windows10-java-setup.html
+3 使用win+r快捷键 输入cmd回车，输入java -jar PUBG-Tool-1.0-SNAPSHOT-MortarClaUp.jar 不要关掉窗口，后面看距离的
+4 游戏里把地图缩放最大，当使用win+shit+s快捷键截图两端点后，在步骤3窗口看距离
