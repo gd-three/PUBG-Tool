@@ -53,7 +53,7 @@ public class PickItem implements NativeKeyListener {
                     robot.mouseMove(WIDE_MOVE, HIGH_MOVE);
                     robot.mouseRelease(InputEvent.BUTTON1_DOWN_MASK);
                 }
-                robot.mouseMove(WIDE, HIGH);
+
             }
         }
     }
